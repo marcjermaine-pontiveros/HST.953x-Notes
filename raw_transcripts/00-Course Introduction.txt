@@ -1,0 +1,93 @@
+
+PROFESSOR: On behalf of MIT Critical Data,
+I welcome you to HST.953x.
+This course was created by members of MIT Critical
+Data, a global consortium that consists
+of health practitioners, computer
+scientists, and engineers from academia, industry,
+and government.
+MIT Critical Data seeks to place data
+driven research and learning at the front
+and center of healthcare.
+We create cross disciplinary communities to derive knowledge
+from data routinely collected in the process of care
+and we seek to improve the understanding of both health
+and disease in all clinical and cultural contexts.
+Research has been traditionally viewed
+as a purely academic undertaking,
+especially in limited resource settings.
+Clinical trials, the gold standards of medical research,
+are expensive, difficult to perform well,
+and often result in findings limited by issues of subject
+inclusion and exclusion.
+They also take place primarily in countries
+which can afford them.
+Blood pressure thresholds for hypertension or blood sugar
+targets for diabetics are established
+based on research performed in a handful of countries.
+There is an implicit but flawed assumption
+that the validity of such studies
+carried out in the US and other Western countries
+fully and accurately generalize to patients around the world.
+The digitalization of care presents an opportunity
+to engage healthcare practitioners
+from every country in pertinent and applicable research.
+This research is based on the partnership of clinicians
+and public health practitioners with computer scientists,
+engineers, and social scientists in an inspiring enterprise
+consisting of the creation and validation
+of medical knowledge.
+Data is proliferating in diverse forms
+within the healthcare field.
+Not only because of the adoption of digital health records,
+but also because of the growing use of
+wireless technologies for admonitory monitoring.
+The world is abuzz with applications of data science
+in almost every field.
+Commerce, transportation, banking, and more
+recently healthcare.
+These breakthroughs are due to both rediscovered and newly
+created algorithms, powerful computers to run them,
+and most importantly the availability
+of bigger and increasingly reliable and usable
+data to train the algorithms.
+This course provides an introductory survey
+of the data science tools employed in healthcare
+for these purposes.
+Instruction is carried out through a variety
+of proven hands on workshops and exercises.
+In our quest to fully leverage the data routinely collected
+in the process of care, we need to remind ourselves
+that the actual data elements are heavily
+influenced by longstanding social, cultural, and
+institutional biases.
+In an ideal world, only individual patient health
+and disease factors would determine and guide
+the prediction of clinical outcomes.
+However, we live in a world where the entered data
+elements, applied algorithms, and human interpretations
+and decisions can be knowingly or unconsciously biased.
+And unless the underlying inequities in our communities
+are addressed, such biases will perpetuate and at times magnify
+existing health disparities.
+This course is a labor of love among friends
+from around the world.
+The most daunting global health issues right now
+are the result of interconnected crises,
+global warming, the COVID pandemic,
+the economic fallouts of the pandemic, political extremism
+and polarization, and systemic racism.
+However, we also live in a time of powerful advances
+in information technology, artificial intelligence,
+and molecular biology that can be
+applied to these formidable health problems.
+In this course, we highlight the importance
+of a multidisciplinary approach to knowledge generation.
+Every patient encounter digitally documented,
+stored, and analyzable is an opportunity
+that we can learn from.
+In this context every health practitioner
+in partnership with data scientists
+should and will become a contributor and a custodian
+and not merely a passive recipient
+of the medical knowledge system.
