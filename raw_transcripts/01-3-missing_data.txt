@@ -1,0 +1,58 @@
+
+More generally, there's problem sometimes with missing data.
+And I don't know if this is something you will encounter
+in your data set.
+But it happens all the time in a lot of disciplines
+and a lot of research areas where there's just some feature
+value that's missing.
+And the first thing you have to know is how is that indicated?
+Is it a question mark?
+Is it a negative value?
+Does negative mean missing, maybe?
+Is it 99999, which is, for some reason,
+a very commonly used signature for a negative--
+or for missing data.
+What is the signal that something is missing
+versus a truly observed value?
+And if it is missing, why?
+Is it missing because it was never measured?
+Like, no one got around to measuring
+someone's weight that day, so there's just the missing value?
+Or is it-- was it out of range?
+Sometimes, there's a valid range for a particular feature,
+and if something falls outside of that,
+you're not able to represent it.
+Or is it truly unmeasurable?
+So I was working at one point with a star galaxy
+classification data set, which sounds pretty straightforward.
+You'd take a bunch of observations
+of things in the sky, and you want
+to say which ones are stars and which ones are galaxies.
+And one of the features that was used
+to represent all of the items was
+eccentricity of an ellipse fit to that object on the sky.
+So eccentricity tells you how elongated or round the thing
+is.
+And for a lot of these objects, that value is simply missing.
+And as I looked into it further, I
+realized that it was strongly correlated with the class
+label.
+And it turns out that this is because a star is a point
+source.
+And the ellipse fit method-- whoever
+used it to generate this data just fails for a point source
+because you can't fit an ellipse to a point in a meaningful way.
+And so there was no eccentricity to report at all.
+So in that case, it would not be appropriate to try
+to infer that missing value because it
+is truly inappropriate.
+It's truly unmeasurable for that particular type of object.
+So that's good in a way because it's
+diagnostic, but bad in a way when
+you're trying to apply your standard SPD
+or something like that, which doesn't like missing values.
+So you have to think about ways around this
+and do something appropriate with the missing values
+if there are any.
+Don't just blindly try to fill them in,
+which is a common mistake people sometimes make.

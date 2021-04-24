@@ -1,0 +1,23 @@
+
+PROFESSOR: Think about data analysis.
+Often, what may comes to mind is the sense
+of looking at charts, or graphs, or numbers,
+and really trying to dig into analyze those numbers
+and figure out what they mean, or at least be
+able to reproduce them with a model.
+But I would suggest that you might
+want to think about it more like a translation process, where
+you're taking a lot of data, which may be numbers
+or whatever, but you're really trying to extract information
+from it and communicate it to other humans
+so that you're not operating on data in a vacuum.
+Just like from our Mars data, we're not just
+looking at it as numbers, but you're really trying to say,
+what can we pull out from this data
+that would advance science, or medicine, or astronomy,
+or whatever the domain is?
+What's the knowledge that's in there?
+And that means that whatever you pull out of your data
+needs to be communicable to humans.
+And so I think that should be a guiding directive when you're
+working with large data sets.

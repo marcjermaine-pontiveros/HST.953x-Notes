@@ -1,0 +1,75 @@
+
+PROFESSOR: So I'm going to offer some suggestions that I
+hope would be useful for you as you progress through this term.
+One is that whenever you want to have a collaboration
+with humans, whether that's initially when you're working
+with someone to collect data or later when you're analyzing it,
+you have to develop a shared language.
+That means that you can have the same terminology.
+And you may all have been exposed to jargon
+in the past where maybe you try to read a paper that's
+outside your area of expertise.
+Or sometimes, even just news articles
+will use a lot of terms that are non-standard or are only
+particular to a certain field.
+But there are particular challenges
+that come up in data analysis with respect to language.
+One of those is when the same word
+can have different meanings in different fields.
+So an example that I frequently come across
+is this one in planetary science.
+People will talk about a feature of a planet.
+This is Olympus Mons, which is the largest volcano on Mars.
+This picture does not do it justice.
+This thing is immense.
+In fact, it's one of the largest volcanoes
+in the entire solar system.
+It's huge.
+But you can think of this, if you're a planetary scientist,
+as a surface feature.
+It's a feature of the surface.
+But in machine learning, the word feature
+has a very, very different meaning.
+So a feature of a volcano might be
+something like its height, its area, albedo, shape.
+They are descriptive attributes that tell you
+something about an object.
+And this has repeatedly come up and caused confusion
+when we're working with planetary scientists.
+We get to the point where we're talking
+about extracting features about features because we're
+trying to describe a surface feature with our features,
+and it's extremely confusing.
+So we end up backing off and calling these machine learning
+features attributes, or characteristics,
+or something else that can help distinguish it.
+But it's that process of figuring out
+where your terminology collides and how you can resolve it
+that's really important for being able to just talk
+to other people.
+Secondly, you have to think about what
+the connotations are for particular word choices
+that you may make.
+I do a lot of work in data analysis
+in finding interesting items buried
+within a larger data set.
+And there are a lot of different ways I can talk about that.
+So I could say that it's outlier detection, that
+might have some meaning for folks from statistics
+or machine learning.
+I can call it anomaly detection, or I could
+call it novelty detection.
+And if you think about it, these all
+have very different connotations.
+For a lot of people, if you talk about anomaly detection,
+it sounds like something's wrong,
+like you've detected an error, or a mistake, or failure.
+And that's usually not how I mean it.
+I use it when I'm looking for something interesting.
+So I'll often talk about novelty detection
+to try to emphasize the more positive connotation there.
+But these terms are commonly used and interchanged,
+and they all really do have slightly different meanings.
+So you should think about that when
+you're trying to work with people
+and convey what you're doing and not give the wrong impression.
